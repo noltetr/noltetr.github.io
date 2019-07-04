@@ -18,4 +18,5 @@ layout: default
   <a href="/about/">About</a>
   <br>
   <a href="/portfolio/">Portfolio</a>
+
 </div>

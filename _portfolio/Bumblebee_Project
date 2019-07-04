@@ -9,7 +9,7 @@ img: /img/BumbleBee.jpg
 	<img class="col three" src="{{ site.baseurl }}/img/BubbleCad.jpg" alt=""/>
 </div>
 
-BumbleBee is a 3D printer myself and 3 other students built for our Junior Design class at UNCA. 
+BumbleBee is a 3D printer myself and 3 other students built for our Junior Design class at UNCA.
 The goal of the class wasto introduce and teach studnets about 3D printers and also inprove our planning and team working skills
 
 <div class="img_row">
@@ -18,6 +18,6 @@ The goal of the class wasto introduce and teach studnets about 3D printers and a
 	<img class="col one" src="{{ site.baseurl }}/img/String.jpg" alt=""/>
 </div>
 
-The goal of our printer was to increase printing speed by reducing the mass of the head to maintain accuracy. 
-To reach this goal we opted to use a bowden extruder and to use fishing line to reduce the momentum of the movement system. 
-The printer was also equipped with a headed bed and is designed to accomadate panels for enclosing. 
+The goal of our printer was to increase printing speed by reducing the mass of the head to maintain accuracy.
+To reach this goal we opted to use a bowden extruder and to use mono-filament line to reduce the momentum of the movement system. 
+The printer was also equipped with a headed bed and is designed to accomadate panels for enclosing.
