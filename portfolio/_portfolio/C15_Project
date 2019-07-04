@@ -1,0 +1,19 @@
+---
+layout: post
+title: C15CO
+description: Senior Design Project
+img: /img/C15.jpg
+---
+
+For my Senior Design class we developed and fabricated an Autonomus Moblie Robot(AMR) for Cisco Systems Work Place Resources(WPR).
+This robot uses lidar and stereo vision to patrol around Cisco's cafateria towing a dirty dish cart as a part of Cisco's goal to increase the use of reusables. 
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/C15.jpg" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	C15 operating in building 7 at Cisco
+</div>
+
+We atarted by visting Cisco's building and obtaining measurements and 
+
