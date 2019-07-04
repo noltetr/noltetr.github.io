@@ -2,5 +2,11 @@
 layout: post
 title: High School
 description: Extra Curricular Activities
-img: /img/RoboEagles
+img: /img/RoboEagles.jpg
 ---
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/RoboEagles.jpg" alt="" title="Team 4828"/>
+</div>
+During my time at Enloe High School in Raleigh, North Carolina I participated in Science Olympiad for 4 years and FIRST Robotics for my final 2 years.
+It was a profoundly influential time of my life where I grew to love engineering. I became deeply committed to each of these programs and continue to mentor
+FRC team #4828 the RoboEagles.
