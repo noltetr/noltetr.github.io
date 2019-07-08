@@ -29,8 +29,9 @@ We initially had brainstomed concepts that carried bins internally, fully encase
 we took ideas that we liked from each concept and simplified the overall design.
 
 <div class="img_row">
-  <img class="col three" src="{{ site.baseurl }}/img/Refined_Concept.jpg" alt="" title="Final concept"/>
+  <img class="col three" src="{{ site.baseurl }}/img/Refined_Concept.JPG" alt="" title="Final concept"/>
 </div>
+
 <div class="col three caption">
   Our final concept uses hooks to grab onto the cart
 </div>

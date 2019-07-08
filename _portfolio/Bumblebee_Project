@@ -10,14 +10,20 @@ img: /img/BumbleBee.jpg
 </div>
 
 BumbleBee is a 3D printer myself and 3 other students built for our Junior Design class at UNCA.
-The goal of the class wasto introduce and teach studnets about 3D printers and also inprove our planning and team working skills
+The goal of the class was to introduce and teach students about 3D printers and also inprove our planning and team working skills.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/BumbleBee.jpg" alt=""/>
-	<img class="col one" src="{{ site.baseurl }}/img/PrinterHead.jpg" alt=""/>
+	<img class="col two" src="{{ site.baseurl }}/img/PrinterHead.jpg" alt=""/>
 	<img class="col one" src="{{ site.baseurl }}/img/String.jpg" alt=""/>
 </div>
 
-The goal of our printer was to increase printing speed by reducing the mass of the head to maintain accuracy.
-To reach this goal we opted to use a bowden extruder and to use mono-filament line to reduce the momentum of the movement system. 
-The printer was also equipped with a headed bed and is designed to accomadate panels for enclosing.
+In the beginning of the class we learned about different types of 3D printers and their advantages and disadvantages.
+We were then split into teams of 4 to build and design a 3D and would be graded on how accurate we could print a 1 inch cube, an Elephant, and Boaty.
+After brainstorming with my partners we decided that our printer design would focus on speed and accuracy
+Our design utilized a bowden extruder and mono-filament line to redue the mass and momentum in the extruder carraige.
+By reducing the mass of the carraige it allowed us to run the printer at a faster speed and the mono-filament line's inductileness it provided a much more accurate movement system then the belts used by the Prusa printer we were originally given.
+In addition to using prefabricated parts we also used a Prusa-3 where we printed custom parts for our printer.
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/BumbleBee.jpg" alt=""/>
+</div>
+After many test prints to see how far we could push our printer and found that it could print parts about 30% faster than the Prusa printer while maintaining a higher level of accuracy.
